@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Carolina Vega - Python Studies on GitHub</title>
+    <h2>Carolina Vega - Python Studies on GitHub</h2>
 </head>
 <body>
     <h1>Carolina Vega - Python Studies on GitHub</h1>
