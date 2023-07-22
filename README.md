@@ -4,7 +4,6 @@
     <h2>Carolina Vega - Python Studies on GitHub</h2>
 </head>
 <body>
-    <h1>Carolina Vega - Python Studies on GitHub</h1>
     <p>Check out Carolina Vega's GitHub repository to explore her Python studies and projects.</p>
     <p>GitHub Repository: <a href="https://github.com/CarolinaVega/Python-Studies" target="_blank">CarolinaVega/Python-Studies</a></p>
     <p>Here you will find her work on various Python topics, including data analysis, machine learning, and more.</p>
