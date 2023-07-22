@@ -1,4 +1,3 @@
-# Python-Studies
 <!DOCTYPE html>
 <html>
 <head>
