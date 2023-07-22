@@ -15,9 +15,9 @@
     </ul>
     <p>Contact:</p>
     <ul>
-        <li>Email: vega0202@gmail.com/li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/carolinapvega" target="_blank">linkedin.com/in/carolinavega</a></li>
-        <li>GitHub: <a href="https://github.com/carolinapvega" target="_blank">github.com/CarolinaVega</a></li>
+        <li>Email: vega0202@gmail.com</li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/carolinapvega/" target="_blank">linkedin.com/in/carolinapvega</a></li>
+        <li>GitHub: <a href="https://github.com/carolinapvega" target="_blank">github.com/carolinapvega</a></li>
     </ul>
     <p>Feel free to explore, contribute, and connect with Carolina for any further inquiries or collaborations.</p>
 </body>
