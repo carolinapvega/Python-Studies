@@ -18,7 +18,6 @@
         <li>Email: carolina.vega@email.com</li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/carolinavega" target="_blank">linkedin.com/in/carolinavega</a></li>
         <li>GitHub: <a href="https://github.com/CarolinaVega" target="_blank">github.com/CarolinaVega</a></li>
-        <li>Phone: +1 (123) 456-7890</li>
     </ul>
     <p>Feel free to explore, contribute, and connect with Carolina for any further inquiries or collaborations.</p>
 </body>
